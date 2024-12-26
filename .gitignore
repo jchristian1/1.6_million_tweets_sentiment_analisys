@@ -1,0 +1,22 @@
+# Ignore all Jupyter notebooks except data cleaning
+*.ipynb
+!01_data_cleaning.ipynb
+
+# Ignore all model weights and checkpoints
+modeling_data/DL/weights/
+modeling_data/ML/*.joblib
+
+# Ignore intermediate or large data files
+clean_data/
+modeling_data/multipurpose_preprocessed_dataset.csv
+
+# Ignore raw data files
+raw_data/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
