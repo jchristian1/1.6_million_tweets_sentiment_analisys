@@ -3,7 +3,8 @@
 !01_data_cleaning.ipynb
 !02_EDA.ipynb
 !03_Feature _Engineering_Data_Preprocessing(ML).ipynb
-
+!03_Feature _Engineering_Data_Preprocessing_Multipurpose.ipynb
+!04_modeling(ML).ipynb
 
 # Ignore all model weights and checkpoints
 modeling_data/DL/weights/
