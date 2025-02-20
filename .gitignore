@@ -5,6 +5,7 @@
 !03_Feature _Engineering_Data_Preprocessing(ML).ipynb
 !03_Feature _Engineering_Data_Preprocessing_Multipurpose.ipynb
 !04_modeling(ML).ipynb
+!04_modeling(Transformers).ipynb
 
 # Ignore all model weights and checkpoints
 modeling_data/DL/weights/
